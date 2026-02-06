@@ -1,0 +1,8 @@
+Create item. 
+Example:
+{
+  "name": "Laptop",
+  "category": "Electronics",
+  "quantity": 5,
+  "price": 50000
+}
